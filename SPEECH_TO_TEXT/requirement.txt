@@ -1,3 +1,8 @@
 python-dotenv
 deepgram-sdk==3.*
 pyaudio
+
+langchain
+langchain_community
+langchain-openai
+langchain-groq
